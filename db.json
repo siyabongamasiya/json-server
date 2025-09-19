@@ -1,12 +1,25 @@
 {
-  "apiEndpoint" : [
+  "users": [
     {
-      "name" : "UMA",
-      "skills" : ["javaScript", "node.js", "react.js"]
-    },
-    {
-      "name":"RADHA",
-      "skills" : ["Adobe Illustrator", "Adobe After effects"]
+      "id": "1125734941",
+      "username": "siyabonga",
+      "password": "msiro",
+      "jobs": [
+        {
+          "id": "759805877",
+          "company": "google",
+          "role": "front end",
+          "dateApplied": "2025-09-12",
+          "status": "pending"
+        },
+        {
+          "id": "529972664",
+          "company": "face book",
+          "role": "backend",
+          "dateApplied": "2025-09-20",
+          "status": "pending"
+        }
+      ]
     }
   ]
 }
